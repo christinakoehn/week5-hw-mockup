@@ -1,0 +1,80 @@
+* {margin: 0;
+  padding: 0;
+}
+
+.big {font-size: 2rem;
+      padding-left: 0.5rem;
+      padding-right: 0.5rem;
+      padding-top: 0.25rem;
+}
+
+body {margin: 1rem;}
+
+p {font-family: 'PT Sans', sans-serif;
+  font-size: 12px;
+  padding-bottom: 0.5rem;
+  padding-top: 1rem;
+  padding-right: 2rem;
+}
+
+header li {display: inline-block;
+          padding: 1rem 2rem;
+          height: 18px;
+          font-family: 'PT Sans', sans-serif;
+}
+
+li {list-style:none;}
+
+.headernav a:link {color:black; text-decoration: none;}
+
+.sidenav a:link {color:white; text-decoration: none; font-family: 'PT Sans', sans-serif;}
+
+header nav {background-color: #FFFFFF;
+            text-align:center;
+}
+
+header {text-align: left;
+        background-color: #c1e057;
+        font-family: 'PT Sans', sans-serif;
+}
+
+h1, h3 {margin-left: 1rem;}
+
+h1 {padding-top: 2rem;}
+
+h2 {color: white;
+    background-color: #dfd758;
+    font-family: 'PT Sans', sans-serif;
+    padding-left: 1rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+h3 {padding-bottom: 3rem;}
+
+.sidenav {float: left;
+          background-color: #56dfdd;
+          width: 9em;
+          line-height: 250%;
+          padding-left: 70px;
+          padding-top: 50px;
+          padding-bottom: 60px;
+          margin-bottom: 1rem;
+}
+
+.bluebox { clear:both;
+        background-color: #57bee0;
+        width: 13.4em;
+        height: 13.4em;
+        margin-bottom: 1rem;
+}
+
+.container {float: right;
+            width: 73%;}
+
+footer {background-color: #aeb0b1;
+        height: 2.5rem;
+}
+
+i {float: right;}
+
